@@ -1,0 +1,5 @@
+name	probe_name	x	y	z	hemisphere	impedance	shank_id	location
+e000	Simulation	43.0	480.0	0.0	n/a	n/a	main	n/a
+e001	Simulation	11.0	480.0	0.0	n/a	n/a	main	n/a
+e002	Simulation	57.0	500.0	0.0	n/a	n/a	main	n/a
+e003	Simulation	27.0	500.0	0.0	n/a	n/a	main	n/a

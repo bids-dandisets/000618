@@ -1,0 +1,10 @@
+{
+    "InstitutionName": "Virginia Tech",
+    "PowerLineFrequency": "n/a",
+    "SamplingFrequency": 30000.0,
+    "RecordingDuration": 2003.1033333333332,
+    "SoftwareFilters": "n/a",
+    "HardwareFilters": "n/a",
+    "BodyPart": "BRAIN",
+    "BodyPartDetails": "unknown"
+}
